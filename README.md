@@ -4,7 +4,3 @@
 
 # Back-end
 ## MongoDB
-
-## Desenvolvidos os comandos em challenges/
-
-# Ademais arquivos e diretórios foram fornecido pela Trybe
